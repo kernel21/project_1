@@ -1,0 +1,19 @@
+TARGETS = rsyslog lvm2-lvmpolld lxd tomcat8 lxcfs uuidd unattended-upgrades open-vm-tools lvm2-lvmetad killprocs apport mdadm thermald atd postgresql irqbalance qemu-guest-agent single acpid ssh dbus cron rsync sysstat plymouth ondemand grub-common rc.local
+INTERACTIVE =
+mdadm: rsyslog
+thermald: rsyslog
+atd: rsyslog
+postgresql: rsyslog
+irqbalance: rsyslog
+qemu-guest-agent: rsyslog
+single: killprocs
+acpid: rsyslog
+ssh: rsyslog
+dbus: rsyslog
+cron: rsyslog
+rsync: rsyslog
+sysstat: rsyslog
+plymouth: rsyslog lvm2-lvmpolld lxd mdadm tomcat8 lxcfs thermald uuidd unattended-upgrades open-vm-tools atd postgresql irqbalance qemu-guest-agent lvm2-lvmetad acpid ssh dbus apport cron rsync sysstat
+ondemand: rsyslog lvm2-lvmpolld lxd mdadm tomcat8 lxcfs thermald uuidd unattended-upgrades open-vm-tools atd postgresql irqbalance qemu-guest-agent lvm2-lvmetad acpid ssh dbus apport cron rsync sysstat
+grub-common: rsyslog lvm2-lvmpolld lxd mdadm tomcat8 lxcfs thermald uuidd unattended-upgrades open-vm-tools atd postgresql irqbalance qemu-guest-agent lvm2-lvmetad acpid ssh dbus apport cron rsync sysstat
+rc.local: rsyslog lvm2-lvmpolld lxd mdadm tomcat8 lxcfs thermald uuidd unattended-upgrades open-vm-tools atd postgresql irqbalance qemu-guest-agent lvm2-lvmetad acpid ssh dbus apport cron rsync sysstat

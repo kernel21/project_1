@@ -1,0 +1,14 @@
+TARGETS = lvm2-lvmpolld lxd tomcat8 lxcfs uuidd unattended-upgrades open-vm-tools lvm2-lvmetad mdadm thermald resolvconf atd postgresql irqbalance qemu-guest-agent ufw plymouth urandom open-iscsi iscsid sendsigs rsyslog umountnfs.sh hwclock.sh networking umountfs cryptdisks cryptdisks-early umountroot mdadm-waitidle halt reboot
+iscsid: open-iscsi
+sendsigs: lxd mdadm tomcat8 lxcfs thermald uuidd unattended-upgrades open-vm-tools atd postgresql irqbalance qemu-guest-agent open-iscsi plymouth iscsid
+rsyslog: sendsigs mdadm thermald atd postgresql irqbalance qemu-guest-agent
+umountnfs.sh: rsyslog lxd tomcat8 lxcfs thermald uuidd unattended-upgrades open-vm-tools atd postgresql irqbalance qemu-guest-agent plymouth sendsigs
+hwclock.sh: rsyslog uuidd atd postgresql
+networking: tomcat8 umountnfs.sh postgresql open-iscsi iscsid
+umountfs: lvm2-lvmpolld lxd mdadm tomcat8 lxcfs networking thermald uuidd unattended-upgrades resolvconf open-vm-tools atd umountnfs.sh postgresql irqbalance qemu-guest-agent open-iscsi hwclock.sh lvm2-lvmetad plymouth iscsid urandom
+cryptdisks: umountfs
+cryptdisks-early: umountfs cryptdisks
+umountroot: cryptdisks-early cryptdisks umountfs
+mdadm-waitidle: umountroot
+halt: mdadm-waitidle umountroot
+reboot: mdadm-waitidle umountroot
