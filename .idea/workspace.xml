@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d33a2cd1-94f9-47eb-898d-74f5d3955776" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    </list>
+    <list id="55ca12ee-6fe7-4619-9ee7-17f8ffc05ca9" name="add scripts folder" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project_with_bash.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="dev" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/dev" />
+                <branch-info repo="$PROJECT_DIR$" source="origin_gitlab/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/legal" />
+        <option value="$PROJECT_DIR$/network/interfaces" />
+        <option value="$PROJECT_DIR$/files/network/interfaces" />
+        <option value="$USER_HOME$/ownCloud/Documents/arch_notifications_bash" />
+        <option value="$PROJECT_DIR$/scripts/script_2.sh" />
+        <option value="$PROJECT_DIR$/scripts/script_1.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="279" />
+    <option name="y" value="10" />
+    <option name="width" value="1404" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project_with_bash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project_with_bash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_1" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="project_1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/project_1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="project_1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/project_1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="scripts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_2" />
+    <property name="settings.editor.selected.configurable" value="DBNavigator.Project.ConnectionSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files_dev" />
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d33a2cd1-94f9-47eb-898d-74f5d3955776" name="Default Changelist" comment="" />
+      <changelist id="55ca12ee-6fe7-4619-9ee7-17f8ffc05ca9" name="add scripts folder" comment="" />
+      <created>1561547597100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561547597100</updated>
+    </task>
+    <task id="LOCAL-00001" summary="change network/interface&#10;&#10;(cherry picked from commit a5ded378c30b2d8a394ee00939f73e9347e89bb2)">
+      <created>1561548360069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561548360069</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pycharm git intagrations">
+      <created>1561548496300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561548496300</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New branch dev">
+      <created>1561548957004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561548957004</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Git test networking">
+      <created>1561549285088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561549285088</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Git test networking 5">
+      <created>1561549819518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561549819518</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Git test networking 6">
+      <created>1561549944269</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561549944269</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Git test networking 7">
+      <created>1561550165701</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561550165701</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Git test networking 8 master">
+      <created>1561550268516</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561550268516</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge branch 'dev' into HEAD&#10;&#10;# Conflicts:&#10;#&#9;network/interfaces">
+      <created>1561550427442</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561550427442</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit 11">
+      <created>1561551009366</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561551009366</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit 12">
+      <created>1561551157467</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561551157467</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit 12">
+      <created>1561552137387</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561552137387</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit 20">
+      <created>1561625797915</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561625797915</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add scripts folder">
+      <created>1561626447885</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561626447885</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add scripts folder">
+      <created>1561626705869</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561626705869</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Change project name">
+      <created>1561626789764</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1561626789764</updated>
+    </task>
+    <task id="LOCAL-00017" summary="move dir to files_dev">
+      <created>1561627219926</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1561627219926</updated>
+    </task>
+    <task id="LOCAL-00018" summary="create some_files with zabbix templates">
+      <created>1561628372526</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1561628372526</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit master with zabbix template">
+      <created>1561628586402</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1561628586402</updated>
+    </task>
+    <task id="LOCAL-00020" summary="commit master with zabbix template">
+      <created>1561631332981</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1561631332981</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="0" width="1857" height="1081" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18905473" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="aws.explorer" order="3" side_tool="true" />
+      <window_info id="DB Browser" order="4" weight="0.32969433" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925585" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925585" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989083" weight="0.2277952" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32925585" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50082916" side_tool="true" visible="true" weight="0.29663607" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49945414" weight="0.32925585" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info active="true" anchor="bottom" id="GitLabIntegration" order="13" sideWeight="0.4991708" visible="true" weight="0.32110092" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Jenkins" order="3" weight="0.32946378" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="LONG_EDGES_VISIBLE" value="true" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/dev" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dev" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change network/interface&#10;&#10;(cherry picked from commit a5ded378c30b2d8a394ee00939f73e9347e89bb2)" />
+    <MESSAGE value="pycharm git intagrations" />
+    <MESSAGE value="New branch dev" />
+    <MESSAGE value="Git test networking" />
+    <MESSAGE value="Git test networking 5" />
+    <MESSAGE value="Git test networking 6" />
+    <MESSAGE value="Git test networking 7" />
+    <MESSAGE value="Git test networking 8 master" />
+    <MESSAGE value="Merge branch 'dev' into HEAD&#10;&#10;# Conflicts:&#10;#&#9;network/interfaces" />
+    <MESSAGE value="commit 11" />
+    <MESSAGE value="commit 12" />
+    <MESSAGE value="commit 20" />
+    <MESSAGE value="add scripts folder" />
+    <MESSAGE value="Change project name" />
+    <MESSAGE value="move dir to files_dev" />
+    <MESSAGE value="create some_files with zabbix templates" />
+    <MESSAGE value="commit master with zabbix template" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit master with zabbix template" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/ownCloud/Documents/arch_notifications_bash">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/script_2.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/script_1.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/network/interfaces">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/legal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/some_files/zbx_export_FPSU.xml" />
+    <entry file="db://7c06e9ed-76f0-46b9-a49e-523e4b1eed08/consoles/percona_cluster">
+      <provider selected="true" editor-type-id="0.CONSOLE">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/subuid-">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
