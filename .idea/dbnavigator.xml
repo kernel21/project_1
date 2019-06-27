@@ -29,12 +29,16 @@
     <connection id="7c06e9ed-76f0-46b9-a49e-523e4b1eed08">
       <console name="percona_cluster" type="STANDARD" schema="" session="Main" />
     </connection>
+    <connection id="4fc2969f-d4c5-4a8a-92ed-59f9509d0ee8">
+      <console name="Connection" type="STANDARD" schema="" session="Main" />
+    </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="7c06e9ed-76f0-46b9-a49e-523e4b1eed08" />
+    <connection id="4fc2969f-d4c5-4a8a-92ed-59f9509d0ee8" />
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
@@ -66,9 +70,9 @@
           <database-type value="MYSQL" />
           <config-type value="BASIC" />
           <database-version value="9999.0" />
-          <driver-source value="BUILTIN" />
-          <driver-library value="" />
-          <driver value="" />
+          <driver-source value="EXTERNAL" />
+          <driver-library value="/usr/share/java/mysql-connector-java-8.0.16.jar" />
+          <driver value="com.mysql.jdbc.Driver" />
           <url-type value="DATABASE" />
           <host value="127.0.0.1" />
           <port value="3306" />
@@ -78,7 +82,7 @@
           <deprecated-pwd value="MjM0d2VyQCMk" />
         </database>
         <properties>
-          <auto-commit value="false" />
+          <auto-commit value="true" />
         </properties>
         <ssh-settings>
           <active value="true" />
@@ -86,6 +90,86 @@
           <proxy-port value="22" />
           <proxy-user value="root" />
           <deprecated-proxy-pwd value="czZickFyZXI=" />
+          <auth-type value="PASSWORD" />
+          <key-file value="" />
+          <key-passphrase value="" />
+        </ssh-settings>
+        <ssl-settings>
+          <active value="false" />
+          <certificate-authority-file value="" />
+          <client-certificate-file value="" />
+          <client-key-file value="" />
+        </ssl-settings>
+        <details>
+          <charset value="UTF-8" />
+          <session-management value="true" />
+          <ddl-file-binding value="true" />
+          <database-logging value="false" />
+          <connect-automatically value="true" />
+          <restore-workspace value="true" />
+          <restore-workspace-deep value="true" />
+          <environment-type value="default" />
+          <idle-time-to-disconnect value="30" />
+          <idle-time-to-disconnect-pool value="5" />
+          <credential-expiry-time value="10" />
+          <max-connection-pool-size value="7" />
+          <alternative-statement-delimiter value="" />
+        </details>
+        <object-filters hide-empty-schemas="false" hide-pseudo-columns="false">
+          <object-type-filter use-master-settings="true">
+            <object-type name="SCHEMA" enabled="true" />
+            <object-type name="USER" enabled="true" />
+            <object-type name="ROLE" enabled="true" />
+            <object-type name="PRIVILEGE" enabled="true" />
+            <object-type name="CHARSET" enabled="true" />
+            <object-type name="TABLE" enabled="true" />
+            <object-type name="VIEW" enabled="true" />
+            <object-type name="MATERIALIZED_VIEW" enabled="true" />
+            <object-type name="NESTED_TABLE" enabled="true" />
+            <object-type name="COLUMN" enabled="true" />
+            <object-type name="INDEX" enabled="true" />
+            <object-type name="CONSTRAINT" enabled="true" />
+            <object-type name="DATASET_TRIGGER" enabled="true" />
+            <object-type name="DATABASE_TRIGGER" enabled="true" />
+            <object-type name="SYNONYM" enabled="true" />
+            <object-type name="SEQUENCE" enabled="true" />
+            <object-type name="PROCEDURE" enabled="true" />
+            <object-type name="FUNCTION" enabled="true" />
+            <object-type name="PACKAGE" enabled="true" />
+            <object-type name="TYPE" enabled="true" />
+            <object-type name="TYPE_ATTRIBUTE" enabled="true" />
+            <object-type name="ARGUMENT" enabled="true" />
+            <object-type name="DIMENSION" enabled="true" />
+            <object-type name="CLUSTER" enabled="true" />
+            <object-type name="DBLINK" enabled="true" />
+          </object-type-filter>
+          <object-name-filters />
+        </object-filters>
+      </connection>
+      <connection id="4fc2969f-d4c5-4a8a-92ed-59f9509d0ee8" active="true">
+        <database>
+          <name value="Connection" />
+          <description value="" />
+          <database-type value="MYSQL" />
+          <config-type value="CUSTOM" />
+          <database-version value="9999.0" />
+          <driver-source value="EXTERNAL" />
+          <driver-library value="/usr/share/java/mysql-connector-java-8.0.16.jar" />
+          <driver value="com.mysql.jdbc.Driver" />
+          <url value="jdbc:mysql://10.0.50.160:3306/mysql?useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC3&quot;" />
+          <type value="USER_PASSWORD" />
+          <user value="root" />
+          <deprecated-pwd value="MjM0d2VyQCMk" />
+        </database>
+        <properties>
+          <auto-commit value="false" />
+        </properties>
+        <ssh-settings>
+          <active value="false" />
+          <proxy-host value="" />
+          <proxy-port value="22" />
+          <proxy-user value="" />
+          <deprecated-proxy-pwd value="" />
           <auth-type value="PASSWORD" />
           <key-file value="" />
           <key-passphrase value="" />
